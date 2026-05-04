@@ -1,3 +1,15 @@
+# Resultados de Pruebas — Proyecto Final IA Morris
+
+## Resumen ejecutivo
+
+La versión final integrada en la plataforma de competencia es:
+
+`GRP1 = MCTS básico + captura heurística + prioridad de molino inmediato`.
+
+El agente fue validado contra `GRP2 Random` dentro de `morris_competition` con 20 partidas totales, alternando el orden de juego. Obtuvo 20 victorias, 0 derrotas y 0 empates, con un win rate de 100%.
+
+Los benchmarks históricos en `morris_dev` se mantienen como evidencia del proceso de desarrollo, pero el resultado principal de entrega corresponde al benchmark integrado en `morris_competition`.
+
 ## Prueba 1: MCTS básico vs Random
 
 Fecha: 26/04/2026  
@@ -68,7 +80,9 @@ Total de partidas: 100
 Tiempo total del benchmark: 1026 s, aproximadamente 17.1 minutos.
 
 El agente MCTS básico superó completamente al agente aleatorio en todas las configuraciones probadas. Esto confirma que la implementación de selección, expansión, simulación y retropropagación funciona correctamente y produce decisiones superiores al azar.
-## Prueba 3: MCTS con heurística vs Random
+## Prueba 3: Evaluación de heurísticas
+
+Esta etapa exploró la incorporación de heurísticas en el agente. Los resultados comparativos completos se reportan en las pruebas 4 y 5, donde se evalúan V1 vs V2 y V1 vs V3.
 
 Fecha: 26/04/2026  
 Versión: Etapa 2 - MCTS con heurística  
