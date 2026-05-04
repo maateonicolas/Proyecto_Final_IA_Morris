@@ -1,0 +1,22 @@
+Router Doble Banda Ax3000 Ex511 4 Antenas Externas Wi-Fi 6
+Marca:
+
+Tp-link
+|
+
+Referencia: 4897098685839
+
+conda create -n az_morris python=3.10
+conda activate az_morris
+
+or
+py -3.10 -m venv az_morris
+az_morris\Scripts\activate
+
+pip install torch torchvision torchaudio
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+
+pip install torch torchvision torchaudio
+
+

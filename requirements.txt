@@ -1,0 +1,5 @@
+pygame==2.6.1
+pytest==9.0.3
+numpy==2.4.4
+tqdm==4.67.3
+torch

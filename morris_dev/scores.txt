@@ -1,0 +1,6 @@
+
+
+Game 3 results:
+  Player 1 (MCTS-P1): 3 wins
+  Player 2 (MCTS-P2): 0 wins
+

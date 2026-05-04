@@ -1,0 +1,8 @@
+Game 6 results:
+  Player 1 (DFELLIG2): 0 wins
+  Player 2 (DFELLIG1): 0 wins
+
+Game 6 results:
+  Player 1 (DFELLIG2): 6 wins
+  Player 2 (DFELLIG1): 0 wins
+
